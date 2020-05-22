@@ -1,0 +1,26 @@
+h1 { font-family: monospace;
+      font-size: 30px;
+    text-align: center;}
+
+
+
+p{ font-family: monospace;
+   font-size: 15px;
+    margin: 38px;}
+
+
+
+a {font-family: monospace;
+   font-size: 18px;
+    color: cornflowerblue;
+    text-align: center;
+     margin: 20px;
+     padding: 40px;}
+
+
+img{ margin: 30px;
+     padding: 10px;
+     border: 1px;}
+
+iframe{margin: 30px;}
+
